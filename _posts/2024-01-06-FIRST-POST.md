@@ -18,4 +18,4 @@ mermaid: true
 
 # TEST～ 
 
-TEST
+TEST![book](/../assets/blog_res/book-1704518910324-2.jpg)
